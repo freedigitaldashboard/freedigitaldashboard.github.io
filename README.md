@@ -1,2 +1,2 @@
-# freedigitaldashboard.github.io
-Official App!
+# Rentquity
+Official website for Rentquity
